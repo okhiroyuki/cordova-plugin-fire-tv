@@ -6,7 +6,7 @@ Cordova plugin to add support for Fire TV to your project's AndroidManifest.xml.
 Install
 -------
 
-`cordova plugin add https://github.com/red-mobile/cordova-plugin-fire-tv.git`
+`cordova plugin add @red-mobile/cordova-plugin-fire-tv`
 
 Source
 ------
