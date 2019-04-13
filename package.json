@@ -27,7 +27,6 @@
     "url": "https://github.com/red-mobile/cordova-plugin-fire-tv/issues"
   },
   "homepage": "https://github.com/red-mobile/cordova-plugin-fire-tv#readme",
-  "devDependencies": {
-    "jshint": "^2.9.0"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
