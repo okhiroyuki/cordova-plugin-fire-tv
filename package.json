@@ -19,15 +19,9 @@
     "cordova",
     "ionic",
     "android",
-    "android-tv"
+    "fire-tv"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=7.1.0"
-    }
-  ],
-  "author": "Nedim Cholich",
+  "author": "Hiroyuki Okada",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/red-mobile/cordova-plugin-fire-tv/issues"

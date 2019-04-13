@@ -4,8 +4,8 @@
     id="cordova-plugin-fire-tv"
     version="1.0.0">
 
-    <name>AndroidTVPlugin</name>
-    <description>Cordova Android TV Plugin</description>
+    <name>FireTVPlugin</name>
+    <description>Cordova Fire TV Plugin</description>
     <license>MIT</license>
     <keywords>ecosystem:cordova,cordova-android,firetv,tv</keywords>
 
