@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-fire-tv"
+    id="@red-mobile/cordova-plugin-fire-tv"
     version="1.0.1">
 
     <name>FireTVPlugin</name>
