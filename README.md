@@ -1,17 +1,15 @@
-Android TV Plugin for Cordova
-==============================
+# Android TV Plugin for Cordova
 
 Cordova plugin to add support for Fire TV to your project's AndroidManifest.xml.
 
-Install
--------
+## Install
 
-`cordova plugin add https://github.com/red-mobile/cordova-plugin-fire-tv.git`
+`cordova plugin add cordova-plugin-fire-tv`
 
-Source
-------
-https://github.com/red-mobile/cordova-plugin-fire-tv
+## Source
 
-Forked from
------------
-https://github.com/frontyard/cordova-plugin-android-tv
+- https://github.com/okhiroyuki/cordova-plugin-fire-tv
+
+## Forked from
+
+- https://github.com/frontyard/cordova-plugin-android-tv

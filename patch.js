@@ -13,7 +13,7 @@ module.exports = function (context) {
             }
             fs.writeFile(manifestFile, data, 'utf8', function (err) {
                 if (err) throw new Error('Unable to write into AndroidManifest.xml: ' + err);
-            })
+            });
         });
     }
 };

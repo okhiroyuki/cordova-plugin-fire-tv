@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-mobile/cordova-plugin-fire-tv.git"
+    "url": "git+https://github.com/okhiroyuki/cordova-plugin-fire-tv.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -21,12 +21,18 @@
     "android",
     "fire-tv"
   ],
+  "scripts": {
+    "test": "grunt"
+  },
   "author": "Hiroyuki Okada",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/red-mobile/cordova-plugin-fire-tv/issues"
+    "url": "https://github.com/okhiroyuki/cordova-plugin-fire-tv/issues"
   },
-  "homepage": "https://github.com/red-mobile/cordova-plugin-fire-tv#readme",
-  "devDependencies": {},
+  "homepage": "https://github.com/okhiroyuki/cordova-plugin-fire-tv#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-jshint": "^2.1.0"
+  },
   "dependencies": {}
 }
