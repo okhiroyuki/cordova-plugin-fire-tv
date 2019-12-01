@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-fire-tv",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Cordova plugin that augments your application's Manifest.xml with Fire TV bits and pieces.",
   "cordova": {
     "id": "cordova-plugin-fire-tv",
